@@ -1,4 +1,6 @@
 # World_Weather_Analysis
+
+## Summary:
 Updating weather data in PlanMyTrip App where user can plan their vacation by searching cities with their preferred temperature and then book hotels in the cities to plan their road trip. 
 
 ## Delivarable 1:
